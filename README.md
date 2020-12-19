@@ -127,7 +127,7 @@ plotly.offline.iplot(data)
 
 
 
-![](https://github.com/las5h4/The-Android-App-Market-on-Google-Play/blob/master/newplot.png)
+![](https://github.com/las5h4/The-Android-App-Market-on-Google-Play/blob/master/newplot(1).png)
 
 
 ## 4. Distribution of app ratings
@@ -161,7 +161,7 @@ plotly.offline.iplot({'data': data, 'layout': layout})
 
     Average app rating =  4.173243045387994
 
-![](https://github.com/las5h4/The-Android-App-Market-on-Google-Play/blob/master/newplot(1).png)
+![](https://github.com/las5h4/The-Android-App-Market-on-Google-Play/blob/master/newplot.png)
 
 ## 5. Size and price of an app
 <p>Let's now examine app size and app price. For size, if the mobile app is too large, it may be difficult and/or expensive for users to download. Lengthy download times could turn users off before they even experience your mobile app. Plus, each user's device has a finite amount of disk space. For price, some users expect their apps to be free or inexpensive. These problems compound if the developing world is part of your target market; especially due to internet speeds, earning power and exchange rates.</p>
